@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31829.152
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp_Task5", "WpfApp_Task5\WpfApp_Task5.csproj", "{F054C147-6208-4FE3-8B8F-E1AC279AE9D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp_Task5_2", "WpfApp_Task5_2\WpfApp_Task5_2.csproj", "{C5B0142C-2AA2-4D40-8B9D-00F28FBCB803}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F054C147-6208-4FE3-8B8F-E1AC279AE9D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F054C147-6208-4FE3-8B8F-E1AC279AE9D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F054C147-6208-4FE3-8B8F-E1AC279AE9D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B0142C-2AA2-4D40-8B9D-00F28FBCB803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B0142C-2AA2-4D40-8B9D-00F28FBCB803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B0142C-2AA2-4D40-8B9D-00F28FBCB803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B0142C-2AA2-4D40-8B9D-00F28FBCB803}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
